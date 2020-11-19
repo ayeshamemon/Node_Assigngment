@@ -1,0 +1,7 @@
+To run this app follow the steps:
+1)Do npm i
+
+2)Make a new file .env in the root folder and enter the port.
+Eg:PORT=9000
+
+3)Do npm start
